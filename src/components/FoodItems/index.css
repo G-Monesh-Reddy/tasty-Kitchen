@@ -1,0 +1,20 @@
+.list-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 1vh;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button-arr {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+}
+.arr {
+  height: 4vh;
+  width: 4vw;
+}

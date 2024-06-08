@@ -1,0 +1,37 @@
+.details-bg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('https://res.cloudinary.com/dpfyel8kq/image/upload/v1717650458/Frame_279_1_ksb1iz.png');
+  height: 55vh;
+  width: 100%;
+  color: #ffffff;
+}
+
+.detail-img {
+  height: 300px;
+  width: 500px;
+  margin-right: 20px;
+}
+
+.rating-price {
+  display: flex;
+}
+.detail-rating {
+  margin-right: 20px;
+}
+.food-card-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 1vh;
+}
+.loader-details {
+  color: #ffa412;
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

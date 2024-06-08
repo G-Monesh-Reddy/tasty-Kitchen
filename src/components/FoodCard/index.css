@@ -1,0 +1,38 @@
+.img {
+  height: 160px;
+  width: 200px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.rating-color {
+  color: #ffcc00;
+}
+.rating {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+}
+.list {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  margin-right: 60px;
+  margin-bottom: 30px;
+}
+.list-heading {
+  font-size: 15px;
+}
+.img-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  width: 120px;
+}
+.list-para {
+  color: #64748b;
+}
+.class-link {
+  text-decoration: none;
+  color: #000000;
+}

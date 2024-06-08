@@ -1,0 +1,26 @@
+.carousel-img {
+  height: 320px;
+  width: 100%;
+}
+.caur-list {
+  list-style-type: none;
+}
+.slider-container {
+  margin-left: 10vh;
+  margin-top: 10px;
+  margin-right: 10vh;
+}
+.food-items-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10vh;
+  margin-top: 10px;
+  margin-right: 10vh;
+}
+.select-order {
+  border: 0px;
+  font-size: 15px;
+  outline: none;
+}

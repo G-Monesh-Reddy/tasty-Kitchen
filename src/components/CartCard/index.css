@@ -1,0 +1,21 @@
+.cart-card-img {
+  height: 100px;
+  width: 136px;
+  margin-right: 10px;
+}
+.cart-card-div {
+  display: flex;
+  width: 10vw;
+}
+.but-align-cart-card {
+  display: flex;
+  align-items: center;
+  margin-right: 10vh;
+}
+.cart-header-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-right: 10vh;
+  margin-bottom: 20px;
+}
